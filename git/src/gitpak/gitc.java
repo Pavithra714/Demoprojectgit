@@ -7,6 +7,7 @@ public class gitc {
 	public void display()
 	{
 		System.out.println("Hello");
+		System.out.println("Welcome");
 	}
 	
 }
